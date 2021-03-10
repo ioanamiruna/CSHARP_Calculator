@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cracking_the_coding_intvw_oop", "cracking_the_coding_intvw_oop.csproj", "{9B2DC170-736D-4576-9F7A-6610EB82AF51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B2DC170-736D-4576-9F7A-6610EB82AF51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2DC170-736D-4576-9F7A-6610EB82AF51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2DC170-736D-4576-9F7A-6610EB82AF51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2DC170-736D-4576-9F7A-6610EB82AF51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {500F8E71-1062-4E62-AB4B-A100B692CBAE}
+	EndGlobalSection
+EndGlobal
